@@ -1,0 +1,12 @@
+*.stamp
+*.bak
+*.log
+#*.bat
+*.dxf
+*.pyc
+*.cnv
+
+*.7z
+
+/Examples
+/*.egg-info

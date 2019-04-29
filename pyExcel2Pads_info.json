@@ -1,0 +1,13 @@
+{
+    "name": "pyExcel2Pads",
+    "version": "2019.05",
+    "description": "EDA BOM Helper",
+    "copyright": "2019-2019, Xycart",
+    "main_author": "Xycart",
+    "main_author_email" : "sssxyc@163.com",
+    "url": "https://github.com/saycv/pyExcel2Pads",
+    "license" : "MIT",
+    "authors": [
+        "Xycart (sssxyc \"at\" 163.com)"
+    ]
+}
